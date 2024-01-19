@@ -1,0 +1,14 @@
+.nav-link:hover{
+    background-color: white;
+}
+.nav-link:active{
+    background-color: blue;
+}
+body{
+    background-image: url(HD-wallpaper-plant-leaves-water-drops-dark-background-nature.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    margin-top: 15%;
+}
